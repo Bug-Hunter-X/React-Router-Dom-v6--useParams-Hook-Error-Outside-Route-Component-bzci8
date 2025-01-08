@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the `useParams` hook in React Router Dom v6. The error arises from attempting to access the hook outside of a component that is rendered within a route.  The solution involves refactoring the code to access the parameters within the appropriate route component or passing the parameters down as props.
